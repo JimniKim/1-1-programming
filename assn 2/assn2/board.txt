@@ -1,0 +1,10 @@
+4
+A G D J
+C H F P
+E B I M
+K L O N
+
+I G C N
+B H E P
+F D A O
+M L K J

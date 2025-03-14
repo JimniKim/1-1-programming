@@ -1,0 +1,357 @@
+
+Noodle   HamburgerCheese   Steak    MargarinePeach    	Oreo     Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho Ramen    	Kimchi   HamburgerCoffee   Pizza    Chai     Walnut   
+
+Pumpkin  Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   Ramen    Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    Noodle   Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     Chai     Kimchi   	Cheese   Ham      Bacon    Taco     Cinnamon Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 3 2 2 2 2 3
+ 2 3 2 2 3 2
+ 2 2 3 3 2 2
+ 2 2 3 3 2 2
+ 2 3 2 2 3 2
+ 3 2 2 2 2 3
+Your choice: Noodle
+
+#########HamburgerCheese   Steak    MargarinePeach    	Oreo     Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho Ramen    	Kimchi   HamburgerCoffee   Pizza    Chai     Walnut   
+
+Pumpkin  Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   Ramen    Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     Chai     Kimchi   	Cheese   Ham      Bacon    Taco     Cinnamon Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 4 2 2 3 2 3
+ 2 4 2 3 3 2
+ 2 2 4 4 2 2
+ 3 3 4 0 3 3
+ 2 3 2 3 4 2
+ 3 2 2 3 2 4
+Computer's choice: Oreo
+
+#########HamburgerCheese   Steak    MargarinePeach    	#########Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho Ramen    	Kimchi   HamburgerCoffee   Pizza    Chai     Walnut   
+
+Pumpkin  Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   Ramen    Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     Chai     Kimchi   	Cheese   Ham      Bacon    Taco     Cinnamon Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 0 3 3 4 3 4
+ 3 6 2 3 3 2
+ 3 2 6 4 2 2
+ 4 3 4 0 3 3
+ 3 3 2 3 6 2
+ 4 2 2 3 2 6
+Your choice: Hamburger
+
+##################Cheese   Steak    MargarinePeach    	#########Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho Ramen    	Kimchi   #########Coffee   Pizza    Chai     Walnut   
+
+Pumpkin  Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   Ramen    Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     Chai     Kimchi   	Cheese   Ham      Bacon    Taco     Cinnamon Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 0 4 3 4 3 4
+ 4 0 3 4 4 3
+ 3 3 9 4 2 2
+ 4 4 4 0 3 3
+ 3 4 2 3 9 2
+ 4 3 2 3 2 9
+Computer's choice: Ramen
+
+##################Cheese   Steak    MargarinePeach    	#########Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho #########	Kimchi   #########Coffee   Pizza    Chai     Walnut   
+
+Pumpkin  Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     Chai     Kimchi   	Cheese   Ham      Bacon    Taco     Cinnamon Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 0 4 4 4 3 4
+ 4 0 4 4 4 3
+ 4 4 0 5 3 3
+ 4 4 5 0 3 3
+ 3 4 3 313 2
+ 4 3 3 3 213
+Your choice: Pumpkin
+
+##################Cheese   Steak    MargarinePeach    	#########Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho #########	Kimchi   #########Coffee   Pizza    Chai     Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     Chai     Kimchi   	Cheese   Ham      Bacon    Taco     Cinnamon Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 0 4 4 4 3 4
+ 4 0 4 4 4 3
+ 4 4 0 5 3 3
+ 4 4 5 0 3 3
+ 3 4 3 313 2
+ 4 3 3 3 213
+Computer's choice: Cinnamon
+
+##################Cheese   Steak    MargarinePeach    	#########Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho #########	Kimchi   #########Coffee   Pizza    Chai     Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     Chai     Kimchi   	Cheese   Ham      Bacon    Taco     #########Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 0 4 4 4 4 4
+ 4 0 4 4 5 3
+ 4 4 0 5 4 3
+ 4 4 5 0 4 3
+ 4 5 4 4 0 3
+ 4 3 3 3 318
+Your choice: Chai
+
+##################Cheese   Steak    MargarinePeach    	#########Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     Gaspacho #########	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     #########Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   Gaspacho 
+
+
+ 0 4 4 4 6 5
+ 6 0 6 6 0 5
+ 4 4 0 6 6 3
+ 4 4 6 0 6 3
+ 4 6 4 4 0 3
+ 5 3 3 3 518
+Computer's choice: Gaspacho
+
+##################Cheese   Steak    MargarinePeach    	#########Tuna     Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   Tuna     ##################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     #########Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   #########
+
+
+ 0 4 4 4 6 6
+ 6 0 6 6 0 6
+ 4 4 0 6 6 4
+ 4 4 6 0 6 4
+ 4 6 4 4 0 4
+ 6 4 4 4 6 0
+Your choice: Tuna
+
+##################Cheese   Steak    MargarinePeach    	##################Sandwich Bread    Peanut   Biscuit  
+
+Chip     Mochi    Butter   ###########################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     #########Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   #########
+
+
+ 0 0 6 6 8 8
+ 6 0 6 6 0 6
+ 4 6 0 6 6 4
+ 4 6 6 0 6 4
+ 4 8 4 4 0 4
+ 6 6 4 4 6 0
+Computer's choice: Peanut
+
+##################Cheese   Steak    MargarinePeach    	##################Sandwich Bread    #########Biscuit  
+
+Chip     Mochi    Butter   ###########################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     #########Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    Butter   Seafood  Nugget   #########
+
+
+ 0 0 9 9 011
+ 6 0 6 6 0 6
+ 4 6 0 6 9 4
+ 4 6 6 0 9 4
+ 4 8 4 4 0 4
+ 6 6 4 4 9 0
+Your choice: Butter
+
+##################Cheese   Steak    MargarinePeach    	##################Sandwich Bread    #########Biscuit  
+
+Chip     Mochi    ####################################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     #########Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    #########Seafood  Nugget   #########
+
+
+ 0 011 9 011
+ 6 0 8 6 0 6
+ 4 6 0 6 9 4
+ 4 6 8 0 9 4
+ 4 8 6 4 0 4
+ 8 8 0 611 0
+Computer's choice: Sandwich
+
+##################Cheese   Steak    MargarinePeach    	###########################Bread    #########Biscuit  
+
+Chip     Mochi    ####################################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   Hotdog   Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     #########Hotdog   
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    #########Seafood  Nugget   #########
+
+
+ 0 0 013 015
+ 6 011 6 0 6
+ 4 6 0 6 9 4
+ 4 611 0 9 4
+ 4 8 9 4 0 4
+ 8 8 0 611 0
+Your choice: Hotdog
+
+##################Cheese   Steak    MargarinePeach    	###########################Bread    #########Biscuit  
+
+Chip     Mochi    ####################################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   #########Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     ##################
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    #########Seafood  Nugget   #########
+
+
+ 0 0 013 017
+ 6 011 6 0 8
+ 4 6 0 6 9 6
+ 4 611 0 9 6
+ 61011 6 0 0
+ 8 8 0 611 0
+Computer's choice: Biscuit
+
+##################Cheese   Steak    MargarinePeach    	###########################Bread    ##################
+
+Chip     Mochi    ####################################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   #########Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	Cheese   Ham      Bacon    Taco     ##################
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    #########Seafood  Nugget   #########
+
+
+ 0 0 018 0 0
+ 6 011 6 011
+ 4 6 0 8 9 9
+ 4 613 0 9 9
+ 61211 6 0 0
+10 8 0 611 0
+Your choice: Cheese
+
+###########################Steak    MargarinePeach    	###########################Bread    ##################
+
+Chip     Mochi    ####################################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   #########Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	#########Ham      Bacon    Taco     ##################
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    #########Seafood  Nugget   #########
+
+
+ 0 0 018 0 0
+ 8 011 6 011
+ 6 6 0 8 9 9
+ 6 613 0 9 9
+ 01514 9 0 0
+12 8 0 611 0
+Computer's choice: Bread
+
+###########################Steak    MargarinePeach    	######################################################
+
+Chip     Mochi    ####################################	Kimchi   #########Coffee   Pizza    #########Walnut   
+
+#########Ginger   #########Sausage  Pizza    Walnut   	Egg      Ginger   #########Pickles  Chip     Tofu     
+
+Sandwich Ham      Biscuit  Tofu     Nugget   Peanut   	Sausage  MargarineKebab    #########Steak    Cocoa    
+
+Pickles  Cocoa    Seafood  Oreo     #########Kimchi   	#########Ham      Bacon    Taco     ##################
+
+Cinnamon Bacon    Taco     Bread    Yogurt   Egg      	Fish     Mochi    #########Seafood  Nugget   #########
+
+
+ 0 0 0 0 0 0
+ 8 011 8 011
+ 6 6 010 9 9
+ 6 613 0 9 9
+ 0151411 0 0
+12 8 0 811 0
+Computer Wins!

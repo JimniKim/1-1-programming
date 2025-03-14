@@ -1,0 +1,27 @@
+﻿  소스.cpp
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(28,6): error C2059: 구문 오류: 'delete'
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(75,25): error C2660: 'descending': 함수는 2개의 인수를 사용하지 않습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(32,6): message : 'descending' 선언을 참조하십시오.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(157,35): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(157,13): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(173,35): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(173,13): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(201,35): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(201,13): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(202,35): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(202,13): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(203,34): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(203,12): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(257,6): error C2059: 구문 오류: 'delete'
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(258,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(258,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(311,35): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(311,13): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(312,35): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(312,13): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(313,34): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(313,12): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(381,35): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(381,13): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(382,34): error C2440: '초기화 중': 'void *'에서 'NODE *'(으)로 변환할 수 없습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Project3\Project3\소스.cpp(382,12): message : 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.

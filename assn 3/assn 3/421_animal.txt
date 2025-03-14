@@ -1,0 +1,170 @@
+
+Goose    Ducks    Kitten   Dog      	Puppy    Dove     Mouse    Hippo    
+
+Pig      Crab     Lion     Hippo    	Crab     Dog      Turkey   Crow     
+
+Cow      Goldfish Turkey   Deer     	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    Parrot   	Chicken  Parrot   Goose    Kitten   
+
+
+Computer's priority array
+ 3 2 2 3
+ 2 3 3 2
+ 2 3 3 2
+ 3 2 2 3
+
+Your choice: Goose
+
+#########Ducks    Kitten   Dog      	Puppy    Dove     Mouse    Hippo    
+
+Pig      Crab     Lion     Hippo    	Crab     Dog      Turkey   Crow     
+
+Cow      Goldfish Turkey   Deer     	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    Parrot   	Chicken  Parrot   #########Kitten   
+
+
+Computer's priority array
+ 3 2 3 3
+ 2 3 4 2
+ 2 3 4 2
+ 4 3 0 4
+
+Computer's choice: Turkey
+
+#########Ducks    Kitten   Dog      	Puppy    Dove     Mouse    Hippo    
+
+Pig      Crab     Lion     Hippo    	Crab     Dog      #########Crow     
+
+Cow      Goldfish #########Deer     	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    Parrot   	Chicken  Parrot   #########Kitten   
+
+
+Computer's priority array
+ 3 2 5 4
+ 3 4 0 3
+ 2 4 6 2
+ 5 3 0 4
+
+Your choice: Crab
+
+#########Ducks    Kitten   Dog      	Puppy    Dove     Mouse    Hippo    
+
+Pig      #########Lion     Hippo    	#########Dog      #########Crow     
+
+Cow      Goldfish #########Deer     	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    Parrot   	Chicken  Parrot   #########Kitten   
+
+
+Computer's priority array
+ 4 2 5 4
+ 0 6 0 5
+ 3 4 6 2
+ 6 3 0 4
+
+Computer's choice: Dog
+
+#########Ducks    Kitten   #########	Puppy    Dove     Mouse    Hippo    
+
+Pig      #########Lion     Hippo    	###########################Crow     
+
+Cow      Goldfish #########Deer     	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    Parrot   	Chicken  Parrot   #########Kitten   
+
+
+Computer's priority array
+ 5 3 5 4
+ 0 0 0 8
+ 3 5 7 2
+ 6 4 0 5
+
+Your choice: Parrot
+
+#########Ducks    Kitten   #########	Puppy    Dove     Mouse    Hippo    
+
+Pig      #########Lion     Hippo    	###########################Crow     
+
+Cow      Goldfish #########Deer     	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    #########	Chicken  ##################Kitten   
+
+
+Computer's priority array
+ 5 5 5 4
+ 0 0 0 8
+ 3 7 7 2
+ 8 0 0 7
+
+Computer's choice: Crow
+
+#########Ducks    Kitten   #########	Puppy    Dove     Mouse    Hippo    
+
+Pig      #########Lion     Hippo    	####################################
+
+Cow      Goldfish #########Deer     	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    #########	Chicken  ##################Kitten   
+
+
+Computer's priority array
+ 5 5 5 5
+ 0 0 0 0
+ 3 7 7 3
+ 8 0 0 8
+
+Your choice: Deer
+
+#########Ducks    Kitten   #########	Puppy    Dove     Mouse    Hippo    
+
+Pig      #########Lion     Hippo    	####################################
+
+Cow      Goldfish ##################	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    #########	Chicken  ##################Kitten   
+
+
+Computer's priority array
+ 5 5 5 5
+ 0 0 0 0
+ 3 7 7 3
+ 8 0 0 8
+
+Computer's choice: Chicken
+
+#########Ducks    Kitten   #########	Puppy    Dove     Mouse    Hippo    
+
+Pig      #########Lion     Hippo    	####################################
+
+Cow      Goldfish ##################	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    #########	###########################Kitten   
+
+
+Computer's priority array
+ 7 5 5 7
+ 0 0 0 0
+ 5 9 7 3
+ 0 0 011
+
+Your choice: Hippo
+
+#########Ducks    Kitten   #########	Puppy    Dove     Mouse    #########
+
+Pig      #########Lion     #########	####################################
+
+Cow      Goldfish ##################	Goldfish Fish     Lion     Horse    
+
+Cat      Turtle   Horse    #########	###########################Kitten   
+
+
+Computer's priority array
+ 8 6 6 0
+ 0 0 0 0
+ 512 7 5
+ 0 0 013
+
+You Win!

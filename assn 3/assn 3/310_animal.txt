@@ -1,0 +1,84 @@
+
+Crow     Hamster  Deer     	Pig      Goose    Turkey   
+
+Sparrow  Horse    Parrot   	Hippo    Dove     Sheep    
+
+Ducks    Rabbit   Cat      	Bee      Crab     Dog      
+
+
+Computer's priority array
+ 3 2 3
+ 2 4 2
+ 3 2 3
+
+Your choice: Crow
+
+#########Hamster  Deer     	Pig      Goose    Turkey   
+
+Sparrow  Horse    Parrot   	Hippo    Dove     Sheep    
+
+Ducks    Rabbit   Cat      	Bee      Crab     Dog      
+
+
+Computer's priority array
+ 3 2 3
+ 2 4 2
+ 3 2 3
+
+Computer's choice: Dove
+
+#########Hamster  Deer     	Pig      Goose    Turkey   
+
+Sparrow  Horse    Parrot   	Hippo    #########Sheep    
+
+Ducks    Rabbit   Cat      	Bee      Crab     Dog      
+
+
+Computer's priority array
+ 4 3 4
+ 3 0 3
+ 4 3 4
+
+Your choice: Horse
+
+#########Hamster  Deer     	Pig      Goose    Turkey   
+
+Sparrow  #########Parrot   	Hippo    #########Sheep    
+
+Ducks    Rabbit   Cat      	Bee      Crab     Dog      
+
+
+Computer's priority array
+ 4 3 4
+ 3 0 3
+ 4 3 4
+
+Computer's choice: Pig
+
+#########Hamster  Deer     	#########Goose    Turkey   
+
+Sparrow  #########Parrot   	Hippo    #########Sheep    
+
+Ducks    Rabbit   Cat      	Bee      Crab     Dog      
+
+
+Computer's priority array
+ 0 4 5
+ 4 0 3
+ 5 3 6
+
+Your choice: Cat
+
+#########Hamster  Deer     	#########Goose    Turkey   
+
+Sparrow  #########Parrot   	Hippo    #########Sheep    
+
+Ducks    Rabbit   #########	Bee      Crab     Dog      
+
+
+Computer's priority array
+ 0 4 5
+ 4 0 3
+ 5 3 6
+
+You Win!

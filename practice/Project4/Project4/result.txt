@@ -1,0 +1,72 @@
+F T B H E 	G M N Q J 
+X R A U N 	C H B P R 
+L Y G V P 	E Y I A W 
+J W D K C 	O U D F T 
+M O Q S I 	K L V X S 
+User's choice: F
+# T B H E 	G M N Q J 
+X R A U N 	C H B P R 
+L Y G V P 	E Y I A W 
+J W D K C 	O U D # T 
+M O Q S I 	K L V X S 
+Computer's choice: O
+# T B H E 	G M N Q J 
+X R A U N 	C H B P R 
+L Y G V P 	E Y I A W 
+J W D K C 	# U D # T 
+M # Q S I 	K L V X S 
+User's choice: R
+# T B H E 	G M N Q J 
+X # A U N 	C H B P # 
+L Y G V P 	E Y I A W 
+J W D K C 	# U D # T 
+M # Q S I 	K L V X S 
+Computer's choice: A
+# T B H E 	G M N Q J 
+X # # U N 	C H B P # 
+L Y G V P 	E Y I # W 
+J W D K C 	# U D # T 
+M # Q S I 	K L V X S 
+User's choice: P
+# T B H E 	G M N Q J 
+X # # U N 	C H B # # 
+L Y G V # 	E Y I # W 
+J W D K C 	# U D # T 
+M # Q S I 	K L V X S 
+Computer's choice: S
+# T B H E 	G M N Q J 
+X # # U N 	C H B # # 
+L Y G V # 	E Y I # W 
+J W D K C 	# U D # T 
+M # Q # I 	K L V X # 
+User's choice: G
+# T B H E 	# M N Q J 
+X # # U N 	C H B # # 
+L Y # V # 	E Y I # W 
+J W D K C 	# U D # T 
+M # Q # I 	K L V X # 
+Computer's choice: U
+# T B H E 	# M N Q J 
+X # # # N 	C H B # # 
+L Y # V # 	E Y I # W 
+J W D K C 	# # D # T 
+M # Q # I 	K L V X # 
+User's choice: K
+# T B H E 	# M N Q J 
+X # # # N 	C H B # # 
+L Y # V # 	E Y I # W 
+J W D # C 	# # D # T 
+M # Q # I 	# L V X # 
+Computer's choice: Q
+# T B H E 	# M N # J 
+X # # # N 	C H B # # 
+L Y # V # 	E Y I # W 
+J W D # C 	# # D # T 
+M # # # I 	# L V X # 
+User's choice: I
+# T B H E 	# M N # J 
+X # # # N 	C H B # # 
+L Y # V # 	E Y # # W 
+J W D # C 	# # D # T 
+M # # # # 	# L V X # 
+You Wins!

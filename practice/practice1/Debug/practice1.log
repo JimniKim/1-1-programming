@@ -1,0 +1,7 @@
+﻿  assn4_practice.c
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\practice1\assn4_practice.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\practice1\assn4_practice.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\practice1\assn4_practice.c(43,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\practice1\assn4_practice.c(75,20): warning C4020: 'descending': 실제 매개 변수가 너무 많습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\practice1\assn4_practice.c(35,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  practice1.vcxproj -> C:\Users\kjm16\OneDrive\바탕 화면\코딩\practice\Debug\practice1.exe

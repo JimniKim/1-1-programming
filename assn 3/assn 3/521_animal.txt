@@ -1,0 +1,220 @@
+
+Hamster  Cow      Dove     Fish     Chicken  	Hamster  Sparrow  Crow     Pig      Fish     
+
+Shrimp   Bee      Lion     Deer     Hippo    	Kitten   Goose    Crab     Puppy    Turtle   
+
+Sheep    Dog      Crow     Goldfish Rabbit   	Horse    Cat      Deer     Cow      Peacock  
+
+Sparrow  Pig      Mouse    Turkey   Parrot   	Sheep    Lion     Turkey   Dog      Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	Bee      Chicken  Ducks    Rabbit   Mouse    
+
+
+Computer's priority array
+ 3 2 2 2 3
+ 2 3 2 3 2
+ 2 2 4 2 2
+ 2 3 2 3 2
+ 3 2 2 2 3
+
+Your choice: Hamster
+
+#########Cow      Dove     Fish     Chicken  	#########Sparrow  Crow     Pig      Fish     
+
+Shrimp   Bee      Lion     Deer     Hippo    	Kitten   Goose    Crab     Puppy    Turtle   
+
+Sheep    Dog      Crow     Goldfish Rabbit   	Horse    Cat      Deer     Cow      Peacock  
+
+Sparrow  Pig      Mouse    Turkey   Parrot   	Sheep    Lion     Turkey   Dog      Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	Bee      Chicken  Ducks    Rabbit   Mouse    
+
+
+Computer's priority array
+ 0 3 3 3 4
+ 3 4 2 3 2
+ 3 2 5 2 2
+ 3 3 2 4 2
+ 4 2 2 2 4
+
+Computer's choice: Deer
+
+#########Cow      Dove     Fish     Chicken  	#########Sparrow  Crow     Pig      Fish     
+
+Shrimp   Bee      Lion     #########Hippo    	Kitten   Goose    Crab     Puppy    Turtle   
+
+Sheep    Dog      Crow     Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+Sparrow  Pig      Mouse    Turkey   Parrot   	Sheep    Lion     Turkey   Dog      Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	Bee      Chicken  Ducks    Rabbit   Mouse    
+
+
+Computer's priority array
+ 0 3 4 3 5
+ 3 6 3 4 2
+ 4 3 0 3 3
+ 3 4 3 6 2
+ 5 2 3 2 6
+
+Your choice: Dog
+
+#########Cow      Dove     Fish     Chicken  	#########Sparrow  Crow     Pig      Fish     
+
+Shrimp   Bee      Lion     #########Hippo    	Kitten   Goose    Crab     Puppy    Turtle   
+
+Sheep    #########Crow     Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+Sparrow  Pig      Mouse    Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	Bee      Chicken  Ducks    Rabbit   Mouse    
+
+
+Computer's priority array
+ 0 3 4 4 5
+ 3 9 3 5 2
+ 4 3 0 4 3
+ 4 5 4 0 3
+ 5 2 3 3 9
+
+Computer's choice: Goose
+
+#########Cow      Dove     Fish     Chicken  	#########Sparrow  Crow     Pig      Fish     
+
+Shrimp   Bee      Lion     #########Hippo    	Kitten   #########Crab     Puppy    Turtle   
+
+Sheep    #########Crow     Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+Sparrow  Pig      Mouse    Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	Bee      Chicken  Ducks    Rabbit   Mouse    
+
+
+Computer's priority array
+ 0 4 4 4 5
+ 4 0 4 6 3
+ 4 4 0 4 3
+ 4 6 4 0 3
+ 5 3 3 313
+
+Your choice: Bee
+
+#########Cow      Dove     Fish     Chicken  	#########Sparrow  Crow     Pig      Fish     
+
+Shrimp   #########Lion     #########Hippo    	Kitten   #########Crab     Puppy    Turtle   
+
+Sheep    #########Crow     Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+Sparrow  Pig      Mouse    Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	#########Chicken  Ducks    Rabbit   Mouse    
+
+
+Computer's priority array
+ 0 4 4 4 7
+ 6 0 4 8 3
+ 6 4 0 4 3
+ 6 8 4 0 3
+ 0 4 4 414
+
+Computer's choice: Mouse
+
+#########Cow      Dove     Fish     Chicken  	#########Sparrow  Crow     Pig      Fish     
+
+Shrimp   #########Lion     #########Hippo    	Kitten   #########Crab     Puppy    Turtle   
+
+Sheep    #########Crow     Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+Sparrow  Pig      #########Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	#########Chicken  Ducks    Rabbit   #########
+
+
+Computer's priority array
+ 0 4 4 4 8
+ 6 0 4 8 4
+ 6 4 0 4 4
+ 6 8 4 0 4
+ 0 6 6 6 0
+
+Your choice: Crow
+
+#########Cow      Dove     Fish     Chicken  	#########Sparrow  #########Pig      Fish     
+
+Shrimp   #########Lion     #########Hippo    	Kitten   #########Crab     Puppy    Turtle   
+
+Sheep    ##################Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+Sparrow  Pig      #########Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	#########Chicken  Ducks    Rabbit   #########
+
+
+Computer's priority array
+ 0 6 0 610
+ 6 0 6 8 4
+ 6 4 0 4 4
+ 6 8 6 0 4
+ 0 6 8 6 0
+
+Computer's choice: Fish
+
+#########Cow      Dove     #########Chicken  	#########Sparrow  #########Pig      #########
+
+Shrimp   #########Lion     #########Hippo    	Kitten   #########Crab     Puppy    Turtle   
+
+Sheep    ##################Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+Sparrow  Pig      #########Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	#########Chicken  Ducks    Rabbit   #########
+
+
+Computer's priority array
+ 0 9 0 9 0
+ 6 0 611 6
+ 6 4 0 4 6
+ 611 6 0 6
+ 0 6 8 6 0
+
+Your choice: Sparrow
+
+#########Cow      Dove     #########Chicken  	###########################Pig      #########
+
+Shrimp   #########Lion     #########Hippo    	Kitten   #########Crab     Puppy    Turtle   
+
+Sheep    ##################Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+#########Pig      #########Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	#########Chicken  Ducks    Rabbit   #########
+
+
+Computer's priority array
+ 0 0 013 0
+ 6 0 611 6
+ 6 6 0 4 6
+ 613 6 0 6
+ 0 8 8 6 0
+
+Computer's choice: Pig
+
+#########Cow      Dove     #########Chicken  	#############################################
+
+Shrimp   #########Lion     #########Hippo    	Kitten   #########Crab     Puppy    Turtle   
+
+Sheep    ##################Goldfish Rabbit   	Horse    Cat      #########Cow      Peacock  
+
+###########################Turkey   Parrot   	Sheep    Lion     Turkey   #########Shrimp   
+
+Kitten   Crab     Peacock  Cat      Ducks    	#########Chicken  Ducks    Rabbit   #########
+
+
+Computer's priority array
+ 0 0 0 0 0
+ 6 0 613 6
+ 6 6 0 6 6
+ 613 6 0 6
+ 0 8 8 8 0
+
+Computer Wins!

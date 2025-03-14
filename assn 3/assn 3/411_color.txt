@@ -1,0 +1,102 @@
+
+Khaki    Coral    Orange   Purple   	Gray     Orange   Khaki    Wheat    
+
+Navy     White    Red      Blue     	Black    Navy     Green    Brown    
+
+Green    Ivory    Silver   Maroon   	Red      White    Silver   Blue     
+
+Magenta  Wheat    Lime     Gray     	Ivory    Purple   Charcoal Maroon   
+
+
+Computer's priority array
+ 3 2 2 3
+ 2 3 3 2
+ 2 3 3 2
+ 3 2 2 3
+
+Your choice: Gray
+
+Khaki    Coral    Orange   Purple   	#########Orange   Khaki    Wheat    
+
+Navy     White    Red      Blue     	Black    Navy     Green    Brown    
+
+Green    Ivory    Silver   Maroon   	Red      White    Silver   Blue     
+
+Magenta  Wheat    Lime     #########	Ivory    Purple   Charcoal Maroon   
+
+
+Computer's priority array
+ 0 3 3 4
+ 3 4 3 2
+ 3 3 4 2
+ 4 2 2 4
+
+Computer's choice: Wheat
+
+Khaki    Coral    Orange   Purple   	#########Orange   Khaki    #########
+
+Navy     White    Red      Blue     	Black    Navy     Green    Brown    
+
+Green    Ivory    Silver   Maroon   	Red      White    Silver   Blue     
+
+Magenta  #########Lime     #########	Ivory    Purple   Charcoal Maroon   
+
+
+Computer's priority array
+ 0 5 5 0
+ 3 4 4 3
+ 3 4 4 3
+ 5 2 2 5
+
+Your choice: Lime
+
+Khaki    Coral    Orange   Purple   	#########Orange   Khaki    #########
+
+Navy     White    Red      Blue     	Black    Navy     Green    Brown    
+
+Green    Ivory    Silver   Maroon   	Red      White    Silver   Blue     
+
+Magenta  ###########################	Ivory    Purple   Charcoal Maroon   
+
+
+Computer's priority array
+ 0 5 5 0
+ 3 4 4 3
+ 3 4 4 3
+ 5 2 2 5
+
+Computer's choice: Orange
+
+Khaki    Coral    #########Purple   	##################Khaki    #########
+
+Navy     White    Red      Blue     	Black    Navy     Green    Brown    
+
+Green    Ivory    Silver   Maroon   	Red      White    Silver   Blue     
+
+Magenta  ###########################	Ivory    Purple   Charcoal Maroon   
+
+
+Computer's priority array
+ 0 0 8 0
+ 3 5 4 3
+ 3 5 4 3
+ 5 3 2 5
+
+Your choice: Magenta
+
+Khaki    Coral    #########Purple   	##################Khaki    #########
+
+Navy     White    Red      Blue     	Black    Navy     Green    Brown    
+
+Green    Ivory    Silver   Maroon   	Red      White    Silver   Blue     
+
+####################################	Ivory    Purple   Charcoal Maroon   
+
+
+Computer's priority array
+ 0 0 8 0
+ 3 5 4 3
+ 3 5 4 3
+ 5 3 2 5
+
+You Win!

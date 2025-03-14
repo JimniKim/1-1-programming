@@ -1,0 +1,72 @@
+
+Crab     Mouse    Sheep    	Parrot   Cat      Goose    
+
+Pig      Bee      Fish     	Horse    Rabbit   Pig      
+
+Horse    Puppy    Chicken  	Shrimp   Deer     Crab     
+
+
+ 3 2 3
+ 2 4 2
+ 3 2 3
+Your choice: Fish
+
+Crab     Mouse    Sheep    	Parrot   Cat      Goose    
+
+Pig      Bee      #########	Horse    Rabbit   Pig      
+
+Horse    Puppy    Chicken  	Shrimp   Deer     Crab     
+
+
+ 3 2 3
+ 2 4 2
+ 3 2 3
+Computer's choice: Rabbit
+
+Crab     Mouse    Sheep    	Parrot   Cat      Goose    
+
+Pig      Bee      #########	Horse    #########Pig      
+
+Horse    Puppy    Chicken  	Shrimp   Deer     Crab     
+
+
+ 4 3 4
+ 3 0 3
+ 4 3 4
+Your choice: Bee
+
+Crab     Mouse    Sheep    	Parrot   Cat      Goose    
+
+Pig      ##################	Horse    #########Pig      
+
+Horse    Puppy    Chicken  	Shrimp   Deer     Crab     
+
+
+ 4 3 4
+ 3 0 3
+ 4 3 4
+Computer's choice: Parrot
+
+Crab     Mouse    Sheep    	#########Cat      Goose    
+
+Pig      ##################	Horse    #########Pig      
+
+Horse    Puppy    Chicken  	Shrimp   Deer     Crab     
+
+
+ 0 4 5
+ 4 0 3
+ 5 3 6
+Your choice: Crab
+
+#########Mouse    Sheep    	#########Cat      Goose    
+
+Pig      ##################	Horse    #########Pig      
+
+Horse    Puppy    Chicken  	Shrimp   Deer     #########
+
+
+ 0 4 6
+ 4 0 4
+ 6 4 0
+Computer Wins!

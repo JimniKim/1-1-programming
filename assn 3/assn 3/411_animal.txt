@@ -1,0 +1,120 @@
+
+Horse    Turtle   Crow     Cat      	Crab     Peacock  Goat     Chicken  
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  Crow     Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	Bee      Parrot   Sheep    Kitten   
+
+
+ 3 2 2 3
+ 2 3 3 2
+ 2 3 3 2
+ 3 2 2 3
+Your choice: Horse
+
+#########Turtle   Crow     Cat      	Crab     Peacock  Goat     Chicken  
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  Crow     Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	Bee      Parrot   Sheep    Kitten   
+
+
+ 3 2 2 3
+ 2 3 3 2
+ 2 3 3 2
+ 3 2 2 3
+Computer's choice: Crab
+
+#########Turtle   Crow     Cat      	#########Peacock  Goat     Chicken  
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  Crow     Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	Bee      Parrot   Sheep    Kitten   
+
+
+ 0 3 3 4
+ 3 4 3 2
+ 3 3 4 2
+ 4 2 2 4
+Your choice: Turtle
+
+##################Crow     Cat      	#########Peacock  Goat     Chicken  
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  Crow     Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	Bee      Parrot   Sheep    Kitten   
+
+
+ 0 3 3 4
+ 3 4 3 2
+ 3 3 4 2
+ 4 2 2 4
+Computer's choice: Chicken
+
+##################Crow     Cat      	#########Peacock  Goat     #########
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  Crow     Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	Bee      Parrot   Sheep    Kitten   
+
+
+ 0 5 5 0
+ 3 4 4 3
+ 3 4 4 3
+ 5 2 2 5
+Your choice: Crow
+
+###########################Cat      	#########Peacock  Goat     #########
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  #########Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	Bee      Parrot   Sheep    Kitten   
+
+
+ 0 6 5 0
+ 3 5 6 3
+ 4 0 5 4
+ 7 3 2 5
+Computer's choice: Bee
+
+###########################Cat      	#########Peacock  Goat     #########
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  #########Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	#########Parrot   Sheep    Kitten   
+
+
+ 0 6 5 0
+ 5 5 9 3
+ 6 0 5 4
+ 0 4 3 6
+Your choice: Cat
+
+####################################	#########Peacock  Goat     #########
+
+Cow      Chicken  Turkey   Puppy    	Dog      Deer     Cow      Puppy    
+
+Deer     Peacock  Hamster  Crab     	Sparrow  #########Hippo    Dove     
+
+Sparrow  Pig      Shrimp   Parrot   	#########Parrot   Sheep    Kitten   
+
+
+ 0 6 5 0
+ 5 5 9 3
+ 6 0 5 4
+ 0 4 3 6
+You Win!

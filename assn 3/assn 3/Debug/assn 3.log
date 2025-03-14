@@ -1,0 +1,5 @@
+﻿  assn3.c
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\assn 3\assn 3\assn3.c(29,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\assn 3\assn 3\assn3.c(282,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\kjm16\OneDrive\바탕 화면\코딩\assn 3\assn 3\assn3.c(312,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  assn 3.vcxproj -> C:\Users\kjm16\OneDrive\바탕 화면\코딩\assn 3\Debug\assn 3.exe
